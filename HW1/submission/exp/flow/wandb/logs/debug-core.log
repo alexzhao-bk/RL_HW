@@ -1,0 +1,8 @@
+{"time":"2026-02-11T01:39:06.45717419-08:00","level":"INFO","msg":"main: starting server","port-filename":"/tmp/tmp6qru9brb/port-1464660.txt","pid":1464660,"log-level":0,"disable-analytics":false,"shutdown-on-parent-exit":false,"enable-dcgm-profiling":false}
+{"time":"2026-02-11T01:39:06.461004557-08:00","level":"INFO","msg":"server: will exit if parent process dies","ppid":1464660}
+{"time":"2026-02-11T01:39:06.462140532-08:00","level":"INFO","msg":"server: accepting connections","addr":{"Name":"/tmp/wandb-1464660-1464722-892474775/socket","Net":"unix"}}
+{"time":"2026-02-11T01:39:06.463620826-08:00","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"1(@)"}
+{"time":"2026-02-11T01:39:06.486973804-08:00","level":"INFO","msg":"handleInformInit: received","streamId":"lqa8tnkl","id":"1(@)"}
+{"time":"2026-02-11T01:39:06.847442103-08:00","level":"INFO","msg":"handleInformInit: stream started","streamId":"lqa8tnkl","id":"1(@)"}
+{"time":"2026-02-11T02:01:53.49239956-08:00","level":"INFO","msg":"handleInformFinish: finish message received","streamId":"lqa8tnkl","id":"1(@)"}
+{"time":"2026-02-11T02:01:53.495200937-08:00","level":"INFO","msg":"handleInformFinish: stream closed","streamId":"lqa8tnkl","id":"1(@)"}

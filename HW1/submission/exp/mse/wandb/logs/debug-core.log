@@ -1,0 +1,8 @@
+{"time":"2026-02-10T00:02:28.806315591-08:00","level":"INFO","msg":"main: starting server","port-filename":"/tmp/tmpi0gklgcl/port-1116091.txt","pid":1116091,"log-level":0,"disable-analytics":false,"shutdown-on-parent-exit":false,"enable-dcgm-profiling":false}
+{"time":"2026-02-10T00:02:28.8068765-08:00","level":"INFO","msg":"server: will exit if parent process dies","ppid":1116091}
+{"time":"2026-02-10T00:02:28.806863651-08:00","level":"INFO","msg":"server: accepting connections","addr":{"Name":"/tmp/wandb-1116091-1116121-3839494271/socket","Net":"unix"}}
+{"time":"2026-02-10T00:02:28.992563339-08:00","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"1(@)"}
+{"time":"2026-02-10T00:02:29.001223213-08:00","level":"INFO","msg":"handleInformInit: received","streamId":"k4tyx64p","id":"1(@)"}
+{"time":"2026-02-10T00:02:29.246896947-08:00","level":"INFO","msg":"handleInformInit: stream started","streamId":"k4tyx64p","id":"1(@)"}
+{"time":"2026-02-10T00:10:04.463408476-08:00","level":"INFO","msg":"handleInformFinish: finish message received","streamId":"k4tyx64p","id":"1(@)"}
+{"time":"2026-02-10T00:10:04.465861983-08:00","level":"INFO","msg":"handleInformFinish: stream closed","streamId":"k4tyx64p","id":"1(@)"}
